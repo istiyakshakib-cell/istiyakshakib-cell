@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Istiyak Ahammad Shakib 👋
 
-<!--
-**istiyakshakib-cell/istiyakshakib-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CSE Undergraduate | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science and Engineering student at
+World University of Bangladesh.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about programming, technology, and
+continuous learning.
+
+### 👨‍💻 About Me
+- 🎓 Studying Computer Science & Engineering
+- 🌱 Currently learning Python
+- 💻 Practicing C and C++
+- 🔍 Exploring AI/ML and Cybersecurity
+- 🎯 Improving my problem-solving skills
+
+### 🛠️ Skills
+- C
+- C++
+- Python (Learning)
+- HTML
+- CSS
+- Object-Oriented Programming
+
+### 🎯 Current Goals
+- Strengthen my programming fundamentals
+- Practice problem-solving on Codeforces
+- Learn Python and Machine Learning
+- Build practical projects
+
+### 🔗 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/istiyak-ahammad-shakib
+- Codeforces: https://codeforces.com/profile/ShakibPalla
